@@ -4,5 +4,5 @@ echo "We are learning Branching"
 echo "I am learning Git"
 echo "Hello, How are you?"
 echo "Cloned from rem repo to local repo"
-echo "i am learning "
+
 echo "i had created a branch"
